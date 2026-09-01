@@ -1,6 +1,8 @@
 name: 申请主仓库协作权限
 description: 项目组成员申请访问并参与私有主仓库
 title: "[Access] "
+assignees:
+  - Wuyuya-yyy
 body:
   - type: markdown
     attributes:
